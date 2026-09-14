@@ -1,0 +1,4 @@
+Step 1 validation
+
+Fixture: 5502 reported total; 24 rendered records; 24 unique stable IDs.
+Live pagination: smoke test added; live execution must be performed on a network-enabled runner.
